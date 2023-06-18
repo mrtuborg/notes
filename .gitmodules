@@ -1,6 +1,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
-[submodule "public"]
-	path = public
-	url = git@github.com:mrtuborg/notes.git
