@@ -1,10 +1,10 @@
 baseURL = "https://mrtuborg.github.io/notes/"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "LoveIt"
+theme = "ananke"
 
 # website title
-title = "My New Hugo Site"
+title = "Engineering notes"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
