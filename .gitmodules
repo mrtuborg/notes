@@ -7,3 +7,9 @@
 [submodule "themes/github-style"]
 	path = themes/github-style
 	url = git@github.com:MeiK2333/github-style.git
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git

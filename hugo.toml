@@ -1,18 +1,16 @@
 baseURL = "https://mrtuborg.github.io/notes/"
 
 # Change the default theme to be use when building the site with Hugo
-theme = "ananke"
+theme = "hextra"
 
 # website title
 title = "Engineering notes"
 
-# language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
 
 # Author config
-[author]
+[params.author]
   name = "Vladimir A. Nosenko"
   email = ""
   link = ""
